@@ -1,31 +1,60 @@
-public class Solution {
-    public double FindMedianSortedArrays(int[] nums1, int[] nums2) {
-        int n1 = nums1.Length;
-        int n2 = nums2.Length;
-        int n3 = n1+n2;
+public class Solution
+{
+    public double FindMedianSortedArrays(int[] nums1, int[] nums2)
+    {
+        // Always perform binary search on the smaller array
+        if (nums1.Length > nums2.Length)
+            return FindMedianSortedArrays(nums2, nums1);
 
-        int[] merged = new int[n3];
-        int i=0, j=0, k=0;
-        
-        while (i<n1 && j<n2)
+        int firstArrayLength = nums1.Length;
+        int secondArrayLength = nums2.Length;
+
+        int left = 0;
+        int right = firstArrayLength;
+
+        while (left <= right)
         {
-            if (nums1[i] <= nums2[j]) merged[k++] = nums1[i++];
-            else merged[k++] = nums2[j++];
+            int firstPartition = (left + right) / 2;
+            int secondPartition = (firstArrayLength + secondArrayLength + 1) / 2 - firstPartition;
+
+            int firstLeftMax = (firstPartition == 0)
+                ? int.MinValue
+                : nums1[firstPartition - 1];
+
+            int firstRightMin = (firstPartition == firstArrayLength)
+                ? int.MaxValue
+                : nums1[firstPartition];
+
+            int secondLeftMax = (secondPartition == 0)
+                ? int.MinValue
+                : nums2[secondPartition - 1];
+
+            int secondRightMin = (secondPartition == secondArrayLength)
+                ? int.MaxValue
+                : nums2[secondPartition];
+
+            if (firstLeftMax <= secondRightMin &&
+                secondLeftMax <= firstRightMin)
+            {
+                if ((firstArrayLength + secondArrayLength) % 2 == 0)
+                {
+                    return (Math.Max(firstLeftMax, secondLeftMax) +
+                            Math.Min(firstRightMin, secondRightMin)) / 2.0;
+                }
+
+                return Math.Max(firstLeftMax, secondLeftMax);
+            }
+
+            if (firstLeftMax > secondRightMin)
+            {
+                right = firstPartition - 1;
+            }
+            else
+            {
+                left = firstPartition + 1;
+            }
         }
 
-        if (i<n1) Array.Copy(nums1, i, merged, k, n1-i);
-        else if (j<n2) Array.Copy(nums2, j, merged, k, n2-j);
-
-        if (n3%2 == 0)
-        {
-            // even
-            int middleIdx = n3/2;
-            return (merged[middleIdx-1]+merged[middleIdx])/2.0;
-        }
-        else
-        {
-            //odd
-            return merged[n3/2];
-        }
+        throw new ArgumentException("Input arrays must be sorted.");
     }
 }
