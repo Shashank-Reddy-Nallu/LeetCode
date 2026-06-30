@@ -39,6 +39,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +53,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,8 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
