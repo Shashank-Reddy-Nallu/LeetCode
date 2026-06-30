@@ -33,12 +33,18 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
