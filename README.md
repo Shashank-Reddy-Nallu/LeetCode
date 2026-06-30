@@ -36,6 +36,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
