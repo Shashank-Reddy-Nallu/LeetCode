@@ -26,3 +26,19 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 *"Consistency beats intensity."* 🚀
 
 > **Note:** The sections below are automatically maintained and updated with each accepted solution.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+<!---LeetCode Topics End-->
