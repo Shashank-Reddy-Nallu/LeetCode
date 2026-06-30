@@ -56,6 +56,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,4 +77,5 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
