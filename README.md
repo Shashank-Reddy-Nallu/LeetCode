@@ -46,5 +46,6 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
