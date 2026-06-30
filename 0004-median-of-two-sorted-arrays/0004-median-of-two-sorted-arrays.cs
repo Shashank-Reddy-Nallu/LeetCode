@@ -33,13 +33,11 @@ public class Solution
                 ? int.MaxValue
                 : nums2[secondPartition];
 
-            if (firstLeftMax <= secondRightMin &&
-                secondLeftMax <= firstRightMin)
+            if (firstLeftMax <= secondRightMin && secondLeftMax <= firstRightMin)
             {
                 if ((firstArrayLength + secondArrayLength) % 2 == 0)
                 {
-                    return (Math.Max(firstLeftMax, secondLeftMax) +
-                            Math.Min(firstRightMin, secondRightMin)) / 2.0;
+                    return (Math.Max(firstLeftMax, secondLeftMax) + Math.Min(firstRightMin, secondRightMin)) / 2.0;
                 }
 
                 return Math.Max(firstLeftMax, secondLeftMax);
