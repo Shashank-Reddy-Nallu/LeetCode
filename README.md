@@ -42,3 +42,19 @@ Every accepted solution is automatically added to this repository, making it a c
 ---
 
 *"Consistency beats intensity."* 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
