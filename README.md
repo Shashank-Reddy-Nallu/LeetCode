@@ -45,6 +45,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +55,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -92,4 +94,12 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0049-group-anagrams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
