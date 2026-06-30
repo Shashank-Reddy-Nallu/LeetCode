@@ -37,6 +37,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | [0049-group-anagrams](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | [0067-add-binary](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +103,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
