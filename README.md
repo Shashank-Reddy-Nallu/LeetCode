@@ -48,4 +48,16 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
