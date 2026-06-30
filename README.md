@@ -41,6 +41,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,4 +79,9 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
