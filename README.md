@@ -35,6 +35,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ This repository contains my accepted **LeetCode** solutions written in **C#**. I
 | [0058-length-of-last-word](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Shashank-Reddy-Nallu/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
